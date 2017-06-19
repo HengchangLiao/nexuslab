@@ -1,0 +1,74 @@
+baseurl = "http://example.org"
+title = "NEXUSlab"
+theme = "lama"
+publishDir = "docs"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableRSS = true
+
+# Theme to use (located in /themes/THEMENAME/)
+
+[params]         
+  logo = "fa-diamond"
+   copyright = "Hengchang Liao"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+
+[languages]
+
+    [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "Networked and Complex Systems Security Research (NEXUS) Lab"
+    description = '
+                <!--[--> 
+                    Welcome to the homepage of NEXUS Lab at University of Arkansas at Little Rock. NEXUS Lab is directed by <a href="https://www.mengjunxie.org/">Dr. Mengjun Xie</a>.
+                                    <br />
+                                    <br />
+                    Our mission is to conduct fundamental and experimental research on the security issues in networked and complex systems.
+                                    <br />
+                                    <br />
+                    Current NEXUS Lab focus areas include smart device (mobile, wearable, IoT) authentication, mobile forensics, security education, Internet-of-Things, cloud computing, big data analytics.
+                                    <br />
+                                    <br />
+                    NEXUS Lab is generously supported by U.S. National Science Foundation and Amazon AWS. We always looking for self-motivated Ph.D. students who are strongly committed to research, starting from either Spring or Fall. Graduate students with matching interests and strong research background are also very welcome.
+                <!--]-->
+                '
+                
+                
+    [languages.zh-cn]
+    languageName = "Chinese (PRC)"
+    weight = 2
+    title = "网络与复杂系统安全研究（NEXUS）实验室"
+    description = '
+                <!--[-->
+                    欢迎来到阿肯色大学小石城分校NEXUS实验室的主页。NEXUS实验室由<a href="https://www.mengjunxie.org/">谢博士</a>领导。 
+                                    <br />
+                                    <br />
+                    我们的使命是在网络和复杂的系统的安全性问题进行根本和实验研究。 
+                                    <br />
+                                    <br />
+                    目前NEXUS实验室重点领域包括智能设备（手机，耐磨，IOT）认证，手机取证，安全教育，互联网的，物联网，云计算，大数据分析。 
+                                    <br />
+                                    <br />
+                    NEXUS实验室由美国国家科学基金会和亚马逊AWS支持。我们一直在寻找能够实现自我激励，坚定地致力于研究的博士生，无论从春季或秋季开始。我们也非常欢迎具有相匹配和强大的科研背景的研究生。<!--]-->'
