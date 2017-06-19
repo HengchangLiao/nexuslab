@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://hengchangliao.github.io/nexuslab/en/sitemap.xml</loc>
+	   	<loc>https://hengchangliao.github.io/nexuslab/zh-cn/sitemap.xml</loc>
+		
+	   	<lastmod>2017-03-02T11:59:27-05:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://hengchangliao.github.io/nexuslab/zh-cn/sitemap.xml</loc>
-		
-	   	<lastmod>2017-03-02T11:59:27-05:00</lastmod>
+	   	<loc>https://hengchangliao.github.io/nexuslab/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
