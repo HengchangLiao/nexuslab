@@ -1,4 +1,4 @@
-baseurl = "http://example.org"
+baseurl = "https://hengchangliao.github.io/nexuslab/"
 title = "NEXUSlab"
 theme = "lama"
 publishDir = "docs"
