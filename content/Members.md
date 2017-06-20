@@ -4,7 +4,7 @@ weight = 1
 draft = false
 +++
 
-{{< figure class="image main" src="/images/Members/topimage.gif" >}}
+{{< figure class="image main" src="images/Members/topimage.gif" >}}
 
 
 ### Faculty:
