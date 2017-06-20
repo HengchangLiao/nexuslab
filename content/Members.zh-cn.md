@@ -7,7 +7,7 @@ menuname = "成员介绍"
 
 +++
 
-{{< figure class="image main" src="/images/Members/topimage.gif" >}}
+{{< figure class="image main" src="images/Members/topimage.gif" >}}
 
 Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my [awesome work](#work).
 

@@ -1,4 +1,4 @@
-baseurl = "https://hengchangliao.github.io/nexuslab/"
+baseurl = "https://hengchangliao.github.io/nexuslab"
 title = "NEXUSlab"
 theme = "lama"
 publishDir = "docs"
@@ -9,7 +9,22 @@ disableRSS = true
 
 # Theme to use (located in /themes/THEMENAME/)
 
-[params]         
+[params]
+title = "Networked and Complex Systems Security Research (NEXUS) Lab"
+    description = '
+                <!--[--> 
+                    Welcome to the homepage of NEXUS Lab at University of Arkansas at Little Rock. NEXUS Lab is directed by <a href="https://www.mengjunxie.org/">Dr. Mengjun Xie</a>.
+                                    <br />
+                                    <br />
+                    Our mission is to conduct fundamental and experimental research on the security issues in networked and complex systems.
+                                    <br />
+                                    <br />
+                    Current NEXUS Lab focus areas include smart device (mobile, wearable, IoT) authentication, mobile forensics, security education, Internet-of-Things, cloud computing, big data analytics.
+                                    <br />
+                                    <br />
+                    NEXUS Lab is generously supported by U.S. National Science Foundation and Amazon AWS. We always looking for self-motivated Ph.D. students who are strongly committed to research, starting from either Spring or Fall. Graduate students with matching interests and strong research background are also very welcome.
+                <!--]-->
+                '
   logo = "fa-diamond"
    copyright = "Hengchang Liao"
 
@@ -38,22 +53,8 @@ disableRSS = true
 
     [languages.en]
     languageName = "English"
-    weight = 2
-    title = "Networked and Complex Systems Security Research (NEXUS) Lab"
-    description = '
-                <!--[--> 
-                    Welcome to the homepage of NEXUS Lab at University of Arkansas at Little Rock. NEXUS Lab is directed by <a href="https://www.mengjunxie.org/">Dr. Mengjun Xie</a>.
-                                    <br />
-                                    <br />
-                    Our mission is to conduct fundamental and experimental research on the security issues in networked and complex systems.
-                                    <br />
-                                    <br />
-                    Current NEXUS Lab focus areas include smart device (mobile, wearable, IoT) authentication, mobile forensics, security education, Internet-of-Things, cloud computing, big data analytics.
-                                    <br />
-                                    <br />
-                    NEXUS Lab is generously supported by U.S. National Science Foundation and Amazon AWS. We always looking for self-motivated Ph.D. students who are strongly committed to research, starting from either Spring or Fall. Graduate students with matching interests and strong research background are also very welcome.
-                <!--]-->
-                '
+    weight = 1
+    
                 
                 
     [languages.zh-cn]
